@@ -6,6 +6,5 @@ export const GitHubSection = styled.div`
 
   img {
     height: 157px;
-    align-items: center;
   }
 `
